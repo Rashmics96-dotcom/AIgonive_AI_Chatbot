@@ -61,23 +61,23 @@ replace YOUR_API_KEY with your real API key
 
 ### 🏠 AI Study Assistant
 
-![AI Study Assistant](screenshots/home.png)
+![AI Study Assistant](home.png)
 
 ### 🖼️ Image Question Answering
 
-![Image Chat](screenshots/image-chat.png)
+![Image Chat](image-chat.png)
 
 ### 📄 PDF Question Answering
 
-![PDF Chat](screenshots/pdf-chat.png)
+![PDF Chat](pdf-chat.png)
 
 ### 🕘 Chat History
 
-![Chat History](screenshots/chat-history.png)
+![Chat History](chat-history.png)
 
 ### 📌 Pinned Chats
 
-![Pinned Chats](screenshots/pinned-chats.png)
+![Pinned Chats](pinned-chats.png)
 
 👩‍💻 Author
 
