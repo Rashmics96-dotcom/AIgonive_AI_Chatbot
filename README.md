@@ -60,6 +60,13 @@ The application allows users to interact with an AI assistant, ask questions, up
 ![Pinned Chats](Screenshots/pinned-chats.png)
 
 
+
+👩‍💻 Author
+
+Rashmi C S
+
+
+
 ## ⚙️ Installation
 
 Clone the repository:
@@ -96,9 +103,5 @@ flutter run -d chrome --dart-define=GEMINI_API_KEY=YOUR_API_KEY
 
 
 
-
-👩‍💻 Author
-
-Rashmi C S
 
 
