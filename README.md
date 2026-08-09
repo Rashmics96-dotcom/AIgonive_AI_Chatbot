@@ -34,27 +34,7 @@ The application allows users to interact with an AI assistant, ask questions, up
 - flutter_markdown
 - shared_preferences
 - syncfusion_flutter_pdf
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-
-## 🔑 Gemini API Key Configuration
-
-⚠️ **IMPORTANT:** The Gemini API key is not included in this GitHub repository for security reasons.
-
-The application requires a Gemini API key to use the AI features.
-
-### ▶️ IMPORTANT — Run This Command
-
-After running `flutter pub get`, start the application using:
-
-```bash
-flutter run -d chrome --dart-define=GEMINI_API_KEY=YOUR_API_KEY
-replace YOUR_API_KEY with your real API key
+  
 
 
 ## 📸 Application Screenshots
@@ -79,6 +59,46 @@ replace YOUR_API_KEY with your real API key
 
 ![Pinned Chats](Screenshots/pinned-chats.png)
 
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rashmics96-dotcom/Algonive_AI_Chatbot.git
+
+## 🔑 Gemini API Key Configuration
+
+⚠️ **IMPORTANT:** The Gemini API key is not included in this GitHub repository for security reasons.
+
+The application requires a Gemini API key to use the AI features.
+
+### ▶️ IMPORTANT — Run This Command
+
+After running `flutter pub get`, start the application using:
+
+```bash
+flutter run -d chrome --dart-define=GEMINI_API_KEY=YOUR_API_KEY
+replace YOUR_API_KEY with your real API key
+
+## 🔑 Gemini API Key Configuration
+
+⚠️ **IMPORTANT:** The Gemini API key is not included in this repository for security reasons.
+
+The application requires a Gemini API key to use the AI features.
+
+### ▶️ Run the Application
+
+After running `flutter pub get`, start the application using:
+
+```bash
+flutter run -d chrome --dart-define=GEMINI_API_KEY=YOUR_API_KEY
+
+
+
+
 👩‍💻 Author
 
 Rashmi C S
+
+
